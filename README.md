@@ -5,6 +5,7 @@ Em julho de 2017, [nighto](http://github.com/nighto) enviou à Prefeitura do Rio
 
 - [Relatório Diário de Operação Mensal do STPO](https://github.com/nighto/OnibusRJ/tree/master/RDO)
 - [Resultado Financeiro Consórcios do STPO](https://github.com/nighto/OnibusRJ/tree/master/RFC)
+- [Ranking Negativo Mensal dos Consórcios do STPO](https://github.com/nighto/OnibusRJ/tree/master/RNM)
 
 O pedido original solicitava:
 
