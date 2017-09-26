@@ -6,6 +6,8 @@ Em julho de 2017, [nighto](http://github.com/nighto) enviou à Prefeitura do Rio
 - [Relatório Diário de Operação Mensal do STPO](https://github.com/nighto/OnibusRJ/tree/master/RDO)
 - [Resultado Financeiro Consórcios do STPO](https://github.com/nighto/OnibusRJ/tree/master/RFC)
 - [Ranking Negativo Mensal dos Consórcios do STPO](https://github.com/nighto/OnibusRJ/tree/master/RNM)
+- [Frota mínima para cada linha do STPO](https://github.com/nighto/OnibusRJ/blob/master/Frota%20m%C3%ADnima%20para%20cada%20linha%20do%20STPO.pdf)
+- [Movimentação dos Pedágios da Linha Amarela e Via Expressa Transolímpica](https://github.com/nighto/OnibusRJ/tree/master/Ped%C3%A1gios)
 
 O pedido original solicitava:
 
